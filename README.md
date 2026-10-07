@@ -1,2 +1,0 @@
-# calculator
-modern web calculator
